@@ -21,6 +21,16 @@ This website is an in-development manual for all ESD glider activities. Please c
 | [Kourtney Burger](mailto:kourtney.burger@noaa.gov) | Glider Specialist | Pilot, Tech |
 | [Heidi Taylor](mailto:heidi.taylor@noaa.gov) | Program Lead, SOS; Acting Director, ESD | |
 
+## Gliders
+
+### [Slocum Gliders](https://www.teledynemarine.com/en-us/products/Pages/slocum-glider.aspx){target="_blank"} ![](images/SlocumGlider.jpg){width="97"}
+
+NOAA’s Southwest Fisheries Science Center began deploying Teledyne Webb Research Slocum G3 gliders to study Antarctic krill in 2018. The fleet as well as the sensors on the gliders have expanded through the years. Current sensors include CTD, echosounder, AZFP, ECOPuck, cameras, oxygen optode, BSIPAR, and PAM systems.
+
+### [Oceanscout](https://www.hefring.com/oceanscout){target="_blank"} ![](images/HefringGlider.jpg){width="149"}
+
+The ESD started using the Hefring OceanScout gliders in 2025. They are a smaller glider than the Slocum G3s and currently have a CTD and a WISPR PAM sensor.
+
 ## Project Management
 
 The ESD glider team is using GitHub Issues and Projects for project management. Their efforts are heavily inspired and influenced by the Openscapes [GitHub for project management](https://openscapes.github.io/series/core-lessons/github/github-issues.html){target="_blank"} approach.
