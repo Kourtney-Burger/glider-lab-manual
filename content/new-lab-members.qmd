@@ -1,0 +1,6 @@
+---
+title: "New Lab Members"
+format: html
+---
+
+include introductory information, links to must read papers, new hire resources, goal setting information, etc.
